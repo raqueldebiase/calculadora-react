@@ -1,4 +1,4 @@
-Hi, there!
+Hi, there!👋
 
 Exemplo de calculadora em React.JS.
 Seu design foi baseado na mesma ferramenta do sistema IOS. Na execução desse pequeno projeto, tive a oportunidade de aumentar a minha compreensão a respeito da mudança de estado do componente através do useState. 
